@@ -10,3 +10,5 @@ shrinkwrap.yaml
 *.woff
 *.woff2
 *.eot
+# Local Netlify folder
+.netlify
